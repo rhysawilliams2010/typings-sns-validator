@@ -1,0 +1,1 @@
+# typings-sns-validator
