@@ -1,0 +1,7 @@
+{
+  "name": "sns-validator",
+  "main": "index.d.ts",
+  "dependencies": {
+  },
+  "version": "0.2.1"
+}
