@@ -1,5 +1,6 @@
 {
   "name": "sns-validator",
+  "homepage": "https://github.com/aws/aws-js-sns-message-validator",
   "main": "index.d.ts",
   "dependencies": {
   },
